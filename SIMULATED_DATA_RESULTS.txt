@@ -1,0 +1,9 @@
+Dataset rows: 1200
+Training rows: 960
+Test rows: 240
+Test accuracy on simulated data: 0.6458
+Confusion matrix:
+[[ 32  36]
+ [ 49 123]]
+
+These are actual results from this generated simulated dataset only. They are not real-world detection results.
